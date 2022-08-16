@@ -1,3 +1,11 @@
+# Latex garbage
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.synctex.gz
+
 # Ignore generated C-files
 *.c
 
